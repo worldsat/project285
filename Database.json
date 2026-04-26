@@ -1,0 +1,200 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180413/banner1_qdfio4.png"
+    },
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180445/banner2_aylcw4.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180430/cat1_pbyogt.png",
+      "title": "Pc"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180447/cat2_fuyi6h.png",
+      "title": "Smartphone"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776264103/cat3_j5xihc.png",
+      "title": "Headphone"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180372/cat4_epmxfa.png",
+      "title": "Console"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180428/cat5_t2fva4.png",
+      "title": "Camera"
+    },
+    {
+      "id": 5,
+      "picUrl": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180360/cat6_fxv296.png",
+      "title": "Smartwatch"
+    }
+  ],
+  "Items": [
+    {
+      "categoryId": "2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "Black",
+        "Purple",
+        "Pink",
+        "Blue"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180480/cat1_1_zcucoc.png"
+      ],
+      "price": 95,
+      "rating": 4.6,
+      "showRecommended": true,
+      "title": "Headphone 12A"
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "core i3",
+        "core i5",
+        "core i7"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180455/cat2_1_kks3a8.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180488/cat2_2_orcglj.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180457/cat2_3_mbaams.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180452/cat2_4_a1pmer.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180462/cat2_5_qtpkbk.png"
+      ],
+      "price": 550,
+      "rating": 4.7,
+      "showRecommended": true,
+      "title": " Business Laptop "
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "core i3",
+        "core i5",
+        "core i7"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180427/loptop3_frfi55.png"
+      ],
+      "price": 550,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": " Laptop A34f "
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "core i3",
+        "core i5",
+        "core i7"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776264101/loptop4_jahmyo.png"
+      ],
+      "price": 550,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "Laptop 128Gig "
+    },
+    null,
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "core i3",
+        "core i5",
+        "core i7"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180419/loptop2_wefrfu.png"
+      ],
+      "price": 550,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "laptop B2003"
+    },
+    null,
+    null,
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "core i3",
+        "core i5",
+        "core i7"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776264103/loptop5_n2nmjn.png"
+      ],
+      "price": 550,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": " Business Laptop "
+    },
+    {
+      "categoryId": "0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "core i3",
+        "core i5",
+        "core i7"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180406/loptop6_ypbtpi.png"
+      ],
+      "price": 550,
+      "rating": 4.7,
+      "showRecommended": false,
+      "title": "Laptop MOH345 "
+    },
+    {
+      "categoryId": "4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "18-55mm",
+        "35-200mm",
+        "75-300mm"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180371/cat3_1_balll2.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180387/cat3_2_yggwxu.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180389/cat3_3_hb6m1d.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180440/cat3_4_wplnlc.png"
+      ],
+      "price": 750,
+      "rating": 4.5,
+      "showRecommended": true,
+      "title": "Digital Camera"
+    },
+    {
+      "categoryId": "3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed  do eiusmod tempor incididunt ut labore et dolore magna  aliqua. Ut enim ad minim veniam, quis nostrud exercitation  ullamco laboris nisi ut aliquip ex ea commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat  cupidatat non proident, sunt in culpa qui officia deserunt .Excepteur sint occaecat",
+      "model": [
+        "Slim",
+        "Slim Digital"
+      ],
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180423/cat4_1_xnijw3.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180453/cat4_2_t7qzw6.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1776180448/cat4_3_gkmlg9.png"
+      ],
+      "price": 500,
+      "rating": 4.9,
+      "showRecommended": true,
+      "title": "PS5"
+    }
+  ]
+}
